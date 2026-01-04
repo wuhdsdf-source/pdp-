@@ -1,0 +1,5 @@
+{
+  "name": "PDP Animal Personality Test",
+  "description": "A professional personality assessment tool based on the PDP model, categorizing individuals into five animal types: Tiger, Peacock, Koala, Owl, and Chameleon. Features real-time scoring and AI-powered personalized analysis.",
+  "requestFramePermissions": []
+}
